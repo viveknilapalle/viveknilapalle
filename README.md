@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋 I'm Vivek Nilapalle
 
-<!--
-**viveknilapalle/viveknilapalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science Graduate
 
-Here are some ideas to get you started:
+📊 Data Analytics | SQL | Python | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interested in
+- Data Analytics
+- Machine Learning
+- NLP
+- Business Intelligence
+
+## Skills
+
+✔ Python
+✔ SQL
+✔ Excel
+✔ Power BI
+✔ Pandas
+✔ NumPy
+✔ Statistics
+✔ Machine Learning
+✔ Deep Learning
+✔ Natural Language Proes
+
+## Current Projects
+
+🚀 Movie Recommendation System
+
+📈 SQL Business Analytics
+
+📚 Daily Learning Repository
+
+## Connect with me
+
+LinkedIn:
+https://linkedin.com/in/viveknilapalle
+
+Portfolio:
+https://yourportfolio.vercel.app
