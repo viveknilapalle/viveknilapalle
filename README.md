@@ -29,8 +29,6 @@
 
 📈 SQL Business Analytics
 
-📚 Daily Learning Repository
-
 ## Connect with me
 
 LinkedIn:
