@@ -1,4 +1,4 @@
-# Hi there, I'm Vivek Nilapalle 👋
+9# Hi there, I'm Vivek Nilapalle 👋
 
 ### 📊 Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
 
@@ -39,4 +39,4 @@ LinkedIn:
 https://linkedin.com/in/viveknilapalle
 
 Portfolio:
-https://yourportfolio.vercel.app
+https://viveknilapalle.vercel.app/
