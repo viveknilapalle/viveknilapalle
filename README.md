@@ -1,4 +1,4 @@
-9# Hi there, I'm Vivek Nilapalle 👋
+# Hi there, I'm Vivek Nilapalle 👋
 
 ### 📊 Aspiring Data Analyst | Data Science & Machine Learning Enthusiast
 
